@@ -38,16 +38,87 @@ body {
 	text-decoration: none;
 }
 
-h1 {
+h1, h2 {
 	text-align: center;
 	font-size: 30px;
 	padding: 20px;
+}
+h3 {
+	font-size: 20px;
+	text-align: center;
+}
+h4 {
+	font-size: 15px;
+	text-align: center;
+	color: grey;
+	margin: 40px 0px;
 }
 
 .design-img {
 	text-align: center;
 	margin: 10px;
 }
+
+p {
+	margin: 20px;
+	line-height: 35px;
+	text-align: center;
+	padding-left: 110px;
+	padding-right: 110px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+hr {
+	margin-left: 100px;
+	margin-right: 100px;
+	font-size: bold;
+}
+
+div.design-img-2, div.design-img-3, div.design-img-4, 
+div.design-img-5, div.design-img-7, div.design-img-8, 
+div.design-img-9 {
+	display: inline-block;
+}
+
+div.design-img-2, div.design-img-4 {
+	margin-left: 160px;
+}
+
+div.design-img-7, div.design-img-8, div.design-img-9 {
+	margin: 40px;
+}
+
+div.design-img-7 {
+	margin-left: 190px;
+}
+
+.quote {
+	color: grey;
+}
+
+.buttons {
+	text-align: center;
+}
+
+.link-btn {
+	margin: 10px 40px;
+	font-size: 20px;
+	border: 2px solid black;
+	background-color: white;
+	padding: 15px 25px;
+}
+
+.footer-btn-div {
+	text-align: center;
+}
+
+.footer.btn {
+
+	background-color: #FFF6F2;
+}
+
+
 
 
 
